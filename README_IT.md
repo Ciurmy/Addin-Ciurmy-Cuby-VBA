@@ -1,4 +1,7 @@
 # Addin-Ciurmy-Cuby-VBA
-Addin in VBA language to interact with Ciurmy
+Addin in VBA messo a disposizione della piattaforma www.ciurmy.com 
+per permettere agli utenti di Ciurmy di interagire con la piattaforma utilizzando Excel.
+
+
 
 
